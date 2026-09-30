@@ -1,0 +1,33 @@
+{
+  "name": "KT_SHT40",
+  "version": "1.0.0",
+  "description": "Complete Arduino and PlatformIO library for.",
+  "keywords": [
+    "sht40",
+    "sht"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KacperTora/KT_SHT40.git"
+  },
+  "authors": [
+    {
+      "name": "Kacper Tora",
+      "maintainer": true
+    }
+  ],
+  "license": "GPL-3.0",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "KT_SHT40.h",
+  "export": {
+    "exclude": [
+      "*.ino.cpp",
+      ".pio",
+      ".vscode",
+      ".git*",
+      "platformio.ini",
+      "extras"
+    ]
+  }
+}
