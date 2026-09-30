@@ -129,8 +129,7 @@ lib_deps =
 
 ## Documentation & References
 
-* [Sensirion SHT4x Datasheet](https://sensirion.com/products/catalog/SHT40/)
-* [Sensirion Application Note: Handling and De-condensation](https://sensirion.com/)
+* [Sensirion SHT4X Datasheet](https://sensirion.com/media/documents/33FD6951/6555C40E/Sensirion_Datasheet_SHT4x.pdf)
 
 ---
 
