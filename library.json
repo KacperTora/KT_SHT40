@@ -1,10 +1,26 @@
 {
   "name": "KT_SHT40",
   "version": "1.0.0",
-  "description": "Complete Arduino and PlatformIO library for.",
+  "description": "Complete Arduino and PlatformIO library for Sensirion SHT40 temperature and relative humidity sensors. Includes hardware CRC-8 verification, configurable precision, integrated heater control, unique serial number extraction and software reset",
   "keywords": [
     "sht40",
-    "sht"
+    "sht4x",
+    "sht41",
+    "sht45",
+    "sensirion",
+    "temperature",
+    "humidity",
+    "rh",
+    "sensor",
+    "i2c",
+    "climate",
+    "weather",
+    "environmental",
+    "heater",
+    "crc8",
+    "lightweight",
+    "esp32",
+    "arduino"
   ],
   "repository": {
     "type": "git",
